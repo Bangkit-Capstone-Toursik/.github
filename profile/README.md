@@ -11,7 +11,7 @@ Capstone Project for <strong>#BANGKIT2023<strong>
 
  - [Machine Learning](https://github.com/Bangkit-Capstone-Toursik/Machine-Learning)
  - [Cloud Computing](https://github.com/Bangkit-Capstone-Toursik/Cloud-Computing)
- - [Mobile Dev](https://github.com/Bangkit-Capstone-Toursik/ProjectCapstone)
+ - [Mobile Development](https://github.com/Bangkit-Capstone-Toursik/ProjectCapstone)
 
 
 ## Toursik Team [C23-PC701]
