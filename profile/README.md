@@ -18,10 +18,16 @@ Capstone Project for <strong>#BANGKIT2023<strong>
   
 ## Repositories
 
- - [Machine Learning](https://github.com/Bangkit-Capstone-Toursik/Machine-Learning)
- - [Cloud Computing](https://github.com/Bangkit-Capstone-Toursik/Cloud-Computing)
- - [Mobile Development](https://github.com/Bangkit-Capstone-Toursik/ProjectCapstone)
+Feel free to explore each repository to access the specific code and resources related to machine learning, cloud computing, and mobile development aspects of the TourSik application.
 
+ - [Machine Learning](https://github.com/Bangkit-Capstone-Toursik/Machine-Learning):
+This repository houses the machine learning code and models used in the TourSik application. It includes algorithms for recommendation systems, data preprocessing, and model training.
+
+ - [Cloud Computing](https://github.com/Bangkit-Capstone-Toursik/Cloud-Computing):
+The TourSik-Cloud repository contains the code and configurations related to the cloud computing infrastructure of the TourSik application. It includes deployment scripts, server configurations, and cloud service integrations.
+
+ - [Mobile Development](https://github.com/Bangkit-Capstone-Toursik/ProjectCapstone):
+This repository hosts the mobile development code for the TourSik application. It includes the front-end code, user interface design, and mobile-specific features for Android platforms.  
 
 ## Toursik Team [C23-PC701]
 
