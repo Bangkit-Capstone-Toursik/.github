@@ -29,7 +29,7 @@ Capstone Project for <strong>#BANGKIT2023<strong>
 - [Damara Salsabila](https://github.com/damaraas)
 - [Hilmi Arisanti Rafidah](https://github.com/hilmiarisanti)
 - [Falih Allam](https://github.com/Falih1)
-- [Farhan Isnaini Zidan](https://www.github.com/octokatherine)
+- [Farhan Isnaini Zidan](https://github.com/Farhanzqn)
 - [Muhammad Ikhsan Salwi](https://github.com/IksanSalwi)
 
 ## Acknowledgments
