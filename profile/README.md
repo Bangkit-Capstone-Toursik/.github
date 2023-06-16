@@ -1,12 +1,21 @@
-## Hi there 👋
 
-<!--
+# Toursik
 
-**Here are some ideas to get you started:**
+https://github.com/Bangkit-Capstone-Toursik/Machine-Learning
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+TourSik is an application that aims to help travelers plan their trips based on their holiday budget, location and category. The app utilizes machine learning algorithms to provide personalized recommendations for tourist attractions, accommodations, and restaurants that fit within the user's budget, location and category. With TourSik, users can input their budget and preferred travel location, and the app will generate a comprehensive itinerary that maximizes their holiday experience without breaking the bank.
+## Acknowledgements
+
+ - [Machine Learning Repositories](https://github.com/Bangkit-Capstone-Toursik/Machine-Learning)
+ - [Cloud Computing](https://github.com/Bangkit-Capstone-Toursik/Cloud-Computing)
+ - [Mobile Dev](https://github.com/Bangkit-Capstone-Toursik/ProjectCapstone)
+
+
+## Toursik Team  C23-PC701
+
+- [Nurrahman Rizky](https://github.com/gitnurrahman)
+- [Damara](https://github.com/damaraas)
+- [Hilmi](https://github.com/hilmiarisanti)
+- [Falih Alam](https://github.com/Falih1)
+- [Farhan](https://www.github.com/octokatherine)
+- [Ikhsan Salwi](https://github.com/IksanSalwi)
