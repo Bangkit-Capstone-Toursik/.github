@@ -11,7 +11,7 @@ TourSik is an application that aims to help travelers plan their trips based on 
  - [Mobile Dev](https://github.com/Bangkit-Capstone-Toursik/ProjectCapstone)
 
 
-## Toursik Team  C23-PC701
+## Toursik Team [C23-PC701]
 
 - [Nurrahman Rizky](https://github.com/gitnurrahman)
 - [Damara](https://github.com/damaraas)
