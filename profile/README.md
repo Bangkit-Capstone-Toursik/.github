@@ -17,9 +17,9 @@ Capstone Project for <strong>#BANGKIT2023<strong>
 ## Toursik Team [C23-PC701]
 
 - [Nurrahman Rizky](https://github.com/gitnurrahman)
-- [Damara](https://github.com/damaraas)
-- [Hilmi](https://github.com/hilmiarisanti)
-- [Falih Alam](https://github.com/Falih1)
-- [Farhan](https://www.github.com/octokatherine)
-- [Ikhsan Salwi](https://github.com/IksanSalwi)
+- [Damara Salsabila](https://github.com/damaraas)
+- [Hilmi Arisanti Rafidah](https://github.com/hilmiarisanti)
+- [Falih Allam](https://github.com/Falih1)
+- [Farhan Isnaini Zidan](https://www.github.com/octokatherine)
+- [Muhammad Ikhsan Salwi](https://github.com/IksanSalwi)
 
