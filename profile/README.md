@@ -1,5 +1,6 @@
-
+![Logo](https://github.com/Bangkit-Capstone-Toursik/.github/assets/128675185/df3068ba-ea27-42e4-a8ec-1eaebdcefa78)
 # Toursik
+
 
 https://github.com/Bangkit-Capstone-Toursik/Machine-Learning
 
